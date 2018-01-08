@@ -2,8 +2,12 @@
 public class Hello_World {
 
 	public static void main(String[] args) {
-		System.out.println("Hello WOrld");
+		for(int i = 0; i< 5; i++) {
+			
+			System.out.println("Hello WOrld" + i);
 
+		}
+		
 	}
 
 }
