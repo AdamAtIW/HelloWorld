@@ -5,7 +5,7 @@ public class Hello_World {
 		
 			
 
-			System.out.println("fish");
+			System.out.println("cow");
 
 		
 		
