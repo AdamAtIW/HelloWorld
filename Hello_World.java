@@ -5,7 +5,7 @@ public class Hello_World {
 		
 			
 
-			System.out.println("tiger");
+			System.out.println("lion");
 
 		
 		
