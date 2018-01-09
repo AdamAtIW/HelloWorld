@@ -5,7 +5,7 @@ public class Hello_World {
 		
 			
 
-			System.out.println("3");
+			System.out.println("1");
 
 		
 		
