@@ -5,7 +5,7 @@ public class Hello_World {
 		
 			
 
-			System.out.println("1");
+			System.out.println("22");
 
 		
 		
