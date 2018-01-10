@@ -5,7 +5,7 @@ public class Hello_World {
 		
 			
 
-			System.out.println("Tomorrow");
+			System.out.println("Adam");
 
 		
 		
